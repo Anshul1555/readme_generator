@@ -44,4 +44,4 @@ For any questions, please contact me:
 
 ## Video
 
-[Watch the demo video](https://github.com/anshul1555/)
+[Watch the demo video](https://github.com/anshul1555/readme_generator/readme_generator.mov)

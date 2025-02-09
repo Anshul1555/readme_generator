@@ -1,11 +1,13 @@
-# Node Project 
+# Node Project
 
 ![License Badge](https://img.shields.io/badge/license-Apache-blue)
 
 ## Description
-to generate a readme file 
+
+to generate a readme file
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -14,22 +16,32 @@ to generate a readme file
 - [Questions](#questions)
 
 ## Installation
-Use node to install all the files and run through	 the terminal
+
+Use node to install all the files and run through the terminal
 
 ## Usage
-use it to create a readme file 
+
+use it to create a readme file
 
 ## License
+
 This project is licensed under the Apache license.
 
 ## Contributing
-bymyself 
+
+bymyself
 
 ## Tests
-use node index.js to test the file in the terminal 
+
+use node index.js to test the file in the terminal
 
 ## Questions
+
 For any questions, please contact me:
 
 - GitHub: [anshulsharma9366@gmail.com](https://github.com/anshulsharma9366@gmail.com)
 - Email: [anshulsharma9366@gmail.com](mailto:anshulsharma9366@gmail.com)
+
+## Video
+
+[Watch the demo video](https://github.com/anshul1555/)

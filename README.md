@@ -44,4 +44,5 @@ For any questions, please contact me:
 
 ## Video
 
-[Watch the demo video] https://github.com/user-attachments/assets/bbe77e69-6169-4807-bbf0-49461e5ca4f4
+[Watch the demo video] 
+![4p9p4o]https://github.com/user-attachments/assets/bbe77e69-6169-4807-bbf0-49461e5ca4f4

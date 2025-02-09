@@ -45,4 +45,4 @@ For any questions, please contact me:
 ## Video
 
 Watch the demo video
-https://github.com/user-attachments/assets/bbe77e69-6169-4807-bbf0-49461e5ca4f4
+https://github.com/user-attachments/assets/4d7b6564-ff54-4c09-93b7-3857b71c99c4
